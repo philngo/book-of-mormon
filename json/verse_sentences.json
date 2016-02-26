@@ -7709,7 +7709,7 @@
         "content": "And I have none other object save it be the everlasting welfare of your souls.", 
         "verse": "30", 
         "book": "2 Nephi", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "2", 
@@ -7717,7 +7717,7 @@
         "content": "Amen.", 
         "verse": "30", 
         "book": "2 Nephi", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "3", 
@@ -7725,7 +7725,7 @@
         "content": "And now I speak unto you, Joseph, my last-born.", 
         "verse": "1", 
         "book": "2 Nephi", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "3", 
@@ -8077,7 +8077,7 @@
         "content": "Remember the words of thy dying father.", 
         "verse": "25", 
         "book": "2 Nephi", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "3", 
@@ -8085,7 +8085,7 @@
         "content": "Amen.", 
         "verse": "25", 
         "book": "2 Nephi", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "4", 
@@ -8093,7 +8093,7 @@
         "content": "And now, I, Nephi, speak concerning the prophecies of which my father hath spoken, concerning Joseph, who was carried into Egypt.", 
         "verse": "1", 
         "book": "2 Nephi", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "4", 
@@ -8589,7 +8589,7 @@
         "content": "Behold, my voice shall forever ascend up unto thee, my rock and mine everlasting God.", 
         "verse": "35", 
         "book": "2 Nephi", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "4", 
@@ -8597,7 +8597,7 @@
         "content": "Amen.", 
         "verse": "35", 
         "book": "2 Nephi", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "5", 
@@ -8605,7 +8605,7 @@
         "content": "Behold, it came to pass that I, Nephi, did cry much unto the Lord my God, because of the anger of my brethren.", 
         "verse": "1", 
         "book": "2 Nephi", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "5", 
@@ -10389,7 +10389,7 @@
         "content": "And now, my brethren, I would speak unto you more; but on the morrow I will declare unto you the remainder of my words.", 
         "verse": "54", 
         "book": "2 Nephi", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "9", 
@@ -10397,7 +10397,7 @@
         "content": "Amen.", 
         "verse": "54", 
         "book": "2 Nephi", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "10", 
@@ -10405,7 +10405,7 @@
         "content": "And now I, Jacob, speak unto you again, my beloved brethren, concerning this righteous branch of which I have spoken.", 
         "verse": "1", 
         "book": "2 Nephi", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "10", 
@@ -15277,7 +15277,7 @@
         "content": "And now, behold, this is the doctrine of Christ, and the only and true doctrine of the Father, and of the Son, and of the Holy Ghost, which is one God, without end.", 
         "verse": "21", 
         "book": "2 Nephi", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "31", 
@@ -15285,7 +15285,7 @@
         "content": "Amen.", 
         "verse": "21", 
         "book": "2 Nephi", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "32", 
@@ -15293,7 +15293,7 @@
         "content": "And now, behold, my beloved brethren, I suppose that ye ponder somewhat in your hearts concerning that which ye should do after ye have entered in by the way.", 
         "verse": "1", 
         "book": "2 Nephi", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "32", 
@@ -15557,7 +15557,7 @@
         "content": "For what I seal on earth, shall be brought against you at the judgment bar; for thus hath the Lord commanded me, and I must obey.", 
         "verse": "15", 
         "book": "2 Nephi", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "33", 
@@ -15565,7 +15565,7 @@
         "content": "Amen.", 
         "verse": "15", 
         "book": "2 Nephi", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "1", 
@@ -15573,7 +15573,7 @@
         "content": "For behold, it came to pass that fifty and five years had passed away from the time that Lehi left Jerusalem; wherefore, Nephi gave me, Jacob, a commandment concerning the small plates, upon which these things are engraven.", 
         "verse": "1", 
         "book": "Jacob", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "1", 
@@ -17597,7 +17597,7 @@
         "content": "Finally, I bid you farewell, until I shall meet you before the pleasing bar of God, which bar striketh the wicked with awful dread and fear.", 
         "verse": "13", 
         "book": "Jacob", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "6", 
@@ -17605,7 +17605,7 @@
         "content": "Amen.", 
         "verse": "13", 
         "book": "Jacob", 
-        "type": "p_singleton"
+        "type": "q_end"
     }, 
     {
         "chapter": "7", 
@@ -18813,7 +18813,7 @@
         "content": "Thus hath the Lord commanded me.", 
         "verse": "27", 
         "book": "Mosiah", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "3", 
@@ -18821,7 +18821,7 @@
         "content": "Amen.", 
         "verse": "27", 
         "book": "Mosiah", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "4", 
@@ -18829,7 +18829,7 @@
         "content": "And now, it came to pass that when king Benjamin had made an end of speaking the words which had been delivered unto him by the angel of the Lord, that he cast his eyes round about on the multitude, and behold they had fallen to the earth, for the fear of the Lord had come upon them.", 
         "verse": "1", 
         "book": "Mosiah", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "4", 
@@ -19285,7 +19285,7 @@
         "content": "Therefore, I would that ye should be steadfast and immovable, always abounding in good works, that Christ, the Lord God Omnipotent, may seal you his, that you may be brought to heaven, that ye may have everlasting salvation and eternal life, through the wisdom, and power, and justice, and mercy of him who created all things, in heaven and in earth, who is God above all.", 
         "verse": "15", 
         "book": "Mosiah", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "5", 
@@ -19293,7 +19293,7 @@
         "content": "Amen.", 
         "verse": "15", 
         "book": "Mosiah", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "6", 
@@ -19301,7 +19301,7 @@
         "content": "And now, king Benjamin thought it was expedient, after having finished speaking to the people, that he should take the names of all those who had entered into a covenant with God to keep his commandments.", 
         "verse": "1", 
         "book": "Mosiah", 
-        "type": "p_end"
+        "type": "p_singleton"
     }, 
     {
         "chapter": "6", 
@@ -21949,7 +21949,7 @@
         "content": "Therefore, if ye teach the law of Moses, also teach that it is a shadow of those things which are to come-- Teach them that redemption cometh through Christ the Lord, who is the very Eternal Father.", 
         "verse": "12", 
         "book": "Mosiah", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "16", 
@@ -21957,7 +21957,7 @@
         "content": "Amen.", 
         "verse": "13", 
         "book": "Mosiah", 
-        "type": "p_singleton"
+        "type": "q_end"
     }, 
     {
         "chapter": "16", 
@@ -27757,7 +27757,7 @@
         "content": "And thus I have spoken.", 
         "verse": "27", 
         "book": "Alma", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "7", 
@@ -27765,7 +27765,7 @@
         "content": "Amen.", 
         "verse": "27", 
         "book": "Alma", 
-        "type": "p_singleton"
+        "type": "q_end"
     }, 
     {
         "chapter": "8", 
@@ -29781,7 +29781,7 @@
         "content": "And thus it is.", 
         "verse": "3", 
         "book": "Alma", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "13", 
@@ -29789,7 +29789,7 @@
         "content": "Amen.", 
         "verse": "4", 
         "book": "Alma", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "13", 
@@ -29797,7 +29797,7 @@
         "content": "Now, as I said concerning the holy order, or this high priesthood, there were many who were ordained and became high priests of God; and it was on account of their exceeding faith and repentance, and their righteousness before God, they choosing to repent and work righteousness rather than to perish; Therefore they were called after this holy order, and were sanctified, and their garments were washed white through the blood of the Lamb.", 
         "verse": "5", 
         "book": "Alma", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "13", 
@@ -34517,7 +34517,7 @@
         "content": "Now this is my joy, and my great thanksgiving; yea, and I will give thanks unto my God forever.", 
         "verse": "37", 
         "book": "Alma", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "26", 
@@ -34525,7 +34525,7 @@
         "content": "Amen.", 
         "verse": "37", 
         "book": "Alma", 
-        "type": "p_singleton"
+        "type": "q_end"
     }, 
     {
         "chapter": "27", 
@@ -36109,7 +36109,7 @@
         "content": "And again we thank thee, O God, that we are a chosen and a holy people.", 
         "verse": "16", 
         "book": "Alma", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "31", 
@@ -36117,7 +36117,7 @@
         "content": "Amen.", 
         "verse": "17", 
         "book": "Alma", 
-        "type": "p_singleton"
+        "type": "q_end"
     }, 
     {
         "chapter": "31", 
@@ -37077,7 +37077,7 @@
         "content": "And even all this can ye do if ye will.", 
         "verse": "23", 
         "book": "Alma", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "33", 
@@ -37085,7 +37085,7 @@
         "content": "Amen.", 
         "verse": "23", 
         "book": "Alma", 
-        "type": "p_singleton"
+        "type": "q_end"
     }, 
     {
         "chapter": "34", 
@@ -39405,7 +39405,7 @@
         "content": "And may God grant unto you even according to my words.", 
         "verse": "31", 
         "book": "Alma", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "42", 
@@ -39413,7 +39413,7 @@
         "content": "Amen.", 
         "verse": "31", 
         "book": "Alma", 
-        "type": "p_singleton"
+        "type": "q_end"
     }, 
     {
         "chapter": "43", 
@@ -49853,7 +49853,7 @@
         "content": "And thus it is.", 
         "verse": "25", 
         "book": "Helaman", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "12", 
@@ -49861,7 +49861,7 @@
         "content": "Amen.", 
         "verse": "26", 
         "book": "Helaman", 
-        "type": "p_singleton"
+        "type": "q_end"
     }, 
     {
         "chapter": "13", 
@@ -53381,7 +53381,7 @@
         "content": "Having authority given me of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost.", 
         "verse": "24", 
         "book": "3 Nephi", 
-        "type": "q_singleton"
+        "type": "q_start"
     }, 
     {
         "chapter": "11", 
@@ -53389,7 +53389,7 @@
         "content": "Amen.", 
         "verse": "25", 
         "book": "3 Nephi", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "11", 
@@ -53397,7 +53397,7 @@
         "content": "And then shall ye immerse them in the water, and come forth again out of the water.", 
         "verse": "26", 
         "book": "3 Nephi", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "11", 
@@ -53981,7 +53981,7 @@
         "content": "For thine is the kingdom, and the power, and the glory, forever.", 
         "verse": "3", 
         "book": "3 Nephi", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "13", 
@@ -53989,7 +53989,7 @@
         "content": "Amen.", 
         "verse": "4", 
         "book": "3 Nephi", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "13", 
@@ -53997,7 +53997,7 @@
         "content": "For, if ye forgive men their trespasses your heavenly Father will also forgive you; But if ye forgive not men their trespasses neither will your Father forgive your trespasses.", 
         "verse": "5", 
         "book": "3 Nephi", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "13", 
@@ -59317,7 +59317,7 @@
         "content": "And ye will also know that ye are a remnant of the seed of Jacob; therefore ye are numbered among the people of the first covenant; and if it so be that ye believe in Christ, and are baptized, first with water, then with fire and with the Holy Ghost, following the example of our Savior, according to that which he hath commanded us, it shall be well with you in the day of judgment.", 
         "verse": "9", 
         "book": "Mormon", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "7", 
@@ -59325,7 +59325,7 @@
         "content": "Amen.", 
         "verse": "10", 
         "book": "Mormon", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "8", 
@@ -59333,7 +59333,7 @@
         "content": "Behold I, Moroni, do finish the record of my father, Mormon.", 
         "verse": "1", 
         "book": "Mormon", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "8", 
@@ -60197,7 +60197,7 @@
         "content": "And may the Lord Jesus Christ grant that their prayers may be answered according to their faith; and may God the Father remember the covenant which he hath made with the house of Israel; and may he bless them forever, through faith on the name of Jesus Christ.", 
         "verse": "37", 
         "book": "Mormon", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "9", 
@@ -60205,7 +60205,7 @@
         "content": "Amen.", 
         "verse": "37", 
         "book": "Mormon", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "1", 
@@ -60213,7 +60213,7 @@
         "content": "And now I, Moroni, proceed to give an account of those ancient inhabitants who were destroyed by the hand of the Lord upon the face of this north country.", 
         "verse": "1", 
         "book": "Ether", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "1", 
@@ -61557,7 +61557,7 @@
         "content": "And behold it is I that hath spoken it.", 
         "verse": "19", 
         "book": "Ether", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "4", 
@@ -61565,7 +61565,7 @@
         "content": "Amen.", 
         "verse": "19", 
         "book": "Ether", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "5", 
@@ -61573,7 +61573,7 @@
         "content": "And now I, Moroni, have written the words which were commanded me, according to my memory; and I have told you the things which I have sealed up; therefore touch them not in order that ye may translate; for that thing is forbidden you, except by and by it shall be wisdom in God.", 
         "verse": "1", 
         "book": "Ether", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "5", 
@@ -63773,7 +63773,7 @@
         "content": "And now, I would commend you to seek this Jesus of whom the prophets and apostles have written, that the grace of God the Father, and also the Lord Jesus Christ, and the Holy Ghost, which beareth record of them, may be and abide in you forever.", 
         "verse": "40", 
         "book": "Ether", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "12", 
@@ -63781,7 +63781,7 @@
         "content": "Amen.", 
         "verse": "41", 
         "book": "Ether", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "13", 
@@ -63789,7 +63789,7 @@
         "content": "And now I, Moroni, proceed to finish my record concerning the destruction of the people of whom I have been writing.", 
         "verse": "1", 
         "book": "Ether", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "13", 
@@ -64629,7 +64629,7 @@
         "content": "Whether the Lord will that I be translated, or that I suffer the will of the Lord in the flesh, it mattereth not, if it so be that I am saved in the kingdom of God.", 
         "verse": "34", 
         "book": "Ether", 
-        "type": "q_singleton"
+        "type": "q_start"
     }, 
     {
         "chapter": "15", 
@@ -64637,7 +64637,7 @@
         "content": "Amen.", 
         "verse": "34", 
         "book": "Ether", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "1", 
@@ -64645,7 +64645,7 @@
         "content": "Now I, Moroni, after having made an end of abridging the account of the people of Jared, I had supposed not to have written more, but I have not as yet perished; and I make not myself known to the Lamanites lest they should destroy me.", 
         "verse": "1", 
         "book": "Moroni", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "1", 
@@ -64709,7 +64709,7 @@
         "content": "In the name of Jesus Christ I ordain you to be a priest, (or, if he be a teacher) I ordain you to be a teacher, to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end.", 
         "verse": "3", 
         "book": "Moroni", 
-        "type": "q_singleton"
+        "type": "q_start"
     }, 
     {
         "chapter": "3", 
@@ -64717,7 +64717,7 @@
         "content": "Amen.", 
         "verse": "1", 
         "book": "Moroni", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "3", 
@@ -64725,7 +64725,7 @@
         "content": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.", 
         "verse": "2", 
         "book": "Moroni", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "3", 
@@ -64741,7 +64741,7 @@
         "content": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it; that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him, and keep his commandments which he hath given them, that they may always have his Spirit to be with them.", 
         "verse": "3", 
         "book": "Moroni", 
-        "type": "q_singleton"
+        "type": "q_start"
     }, 
     {
         "chapter": "3", 
@@ -64749,7 +64749,7 @@
         "content": "Amen.", 
         "verse": "3", 
         "book": "Moroni", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "3", 
@@ -64757,7 +64757,7 @@
         "content": "The manner of administering the wine--Behold, they took the cup, and said:", 
         "verse": "4", 
         "book": "Moroni", 
-        "type": "p_end"
+        "type": "p_singleton"
     }, 
     {
         "chapter": "3", 
@@ -64765,7 +64765,7 @@
         "content": "O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them.", 
         "verse": "4", 
         "book": "Moroni", 
-        "type": "q_singleton"
+        "type": "q_start"
     }, 
     {
         "chapter": "4", 
@@ -64773,7 +64773,7 @@
         "content": "Amen.", 
         "verse": "1", 
         "book": "Moroni", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "4", 
@@ -64781,7 +64781,7 @@
         "content": "And now I speak concerning baptism.", 
         "verse": "2", 
         "book": "Moroni", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "4", 
@@ -65621,7 +65621,7 @@
         "content": "Farewell, my son, until I shall write unto you, or shall meet you again.", 
         "verse": "30", 
         "book": "Moroni", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "8", 
@@ -65629,7 +65629,7 @@
         "content": "Amen.", 
         "verse": "30", 
         "book": "Moroni", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "9", 
@@ -65637,7 +65637,7 @@
         "content": "My beloved son, I write unto you again that ye may know that I am yet alive; but I write somewhat of that which is grievous.", 
         "verse": "1", 
         "book": "Moroni", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "9", 
@@ -65861,7 +65861,7 @@
         "content": "And may the grace of God the Father, whose throne is high in the heavens, and our Lord Jesus Christ, who sitteth on the right hand of his power, until all things shall become subject unto him, be, and abide with you forever.", 
         "verse": "26", 
         "book": "Moroni", 
-        "type": "q_end"
+        "type": "q_middle"
     }, 
     {
         "chapter": "9", 
@@ -65869,7 +65869,7 @@
         "content": "Amen.", 
         "verse": "26", 
         "book": "Moroni", 
-        "type": "p_start"
+        "type": "q_end"
     }, 
     {
         "chapter": "10", 
@@ -65877,7 +65877,7 @@
         "content": "Now I, Moroni, write somewhat as seemeth me good; and I write unto my brethren, the Lamanites; and I would that they should know that more than four hundred and twenty years have passed away since the sign was given of the coming of Christ.", 
         "verse": "1", 
         "book": "Moroni", 
-        "type": "p_middle"
+        "type": "p_start"
     }, 
     {
         "chapter": "10", 
