@@ -1,3 +1,7 @@
 .ipynb_checkpoints/
 .DS_Store
 *.py[cod]
+
+#gh-pages
+_site/
+.sass-cache/
