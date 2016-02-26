@@ -5,4 +5,38 @@ title: Book of Mormon
 
 <div class="post-header mb2">
   <h1>The Book of Mormon</h1>
+  {% for verse in site.data.verses %}
+
+    {% if verse.sentence == '1' or verse.sentence == '1.1' %}
+      {% if verse.verse == '1' %}
+        {% if verse.chapter == '1' %}
+          {% capture super %}{{ verse.book }} {{ verse.chapter }}:{{ verse.verse }}{% endcapture %}
+        {% else %}
+          {% capture super %}{{ verse.chapter }}:{{ verse.verse }}{% endcapture %}
+        {% endif %}
+      {% else %}
+        {% assign super = verse.verse %}
+      {% endif %}
+    {% else %}
+        {% assign super = false %}
+    {% endif %}
+
+    {% if verse.type == 'p_start' %}
+    <p>{% if super %}<sup>{{ super }}</sup>{% endif %}{{ verse.content }}
+    {% elsif verse.type == 'p_middle' %}
+    {% if super %}<sup>{{ super }}</sup>{% endif %}{{ verse.content }}
+    {% elsif verse.type == 'p_end' %}
+    {% if super %}<sup>{{ super }}</sup>{% endif %}{{ verse.content }}</p>
+    {% elsif verse.type == 'p_singleton' %}
+    <p>{% if super %}<sup>{{ super }}</sup>{% endif %}{{ verse.content }}</p>
+    {% elsif verse.type == 'q_start' %}
+      <blockquote>{% if super %}<sup>{{ super }}</sup>{% endif %}{{ verse.content }}
+    {% elsif verse.type == 'q_middle' %}
+      {% if super %}<sup>{{ super }}</sup>{% endif %}{{ verse.content }}
+    {% elsif verse.type == 'q_end' %}
+      {% if super %}<sup>{{ super }}</sup>{% endif %}{{ verse.content }}</blockquote>
+    {% elsif verse.type == 'q_singleton' %}
+      <blockquote>{% if super %}<sup>{{ super }}</sup>{% endif %}{{ verse.content }}</blockquote>
+    {% endif %}
+  {% endfor %}
 </div>
