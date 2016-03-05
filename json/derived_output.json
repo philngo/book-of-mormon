@@ -6890,11 +6890,11 @@
         "chapter": "17",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Arise, and get thee into the mountain.",
         "verse": "7",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_singleton"
     },
     {
@@ -6927,7 +6927,7 @@
         "content": "Thou shalt construct a ship, after the manner which I shall show thee, that I may carry thy people across these waters.",
         "verse": "8",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_singleton"
     },
     {
@@ -6945,11 +6945,11 @@
         "chapter": "17",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "the Lord",
         "content": "Lord, whither shall I go that I may find ore to molten, that I may make tools to construct the ship after the manner which thou hast shown unto me?",
         "verse": "9",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -6993,7 +6993,7 @@
         "content": "I will make thy food become sweet, that ye cook it not; And I will also be your light in the wilderness; and I will prepare the way before you, if it so be that ye shall keep my commandments; wherefore, inasmuch as ye shall keep my commandments ye shall be led towards the promised land; and ye shall know that it is by me that ye are led.",
         "verse": "12",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_singleton"
     },
     {
@@ -7015,7 +7015,7 @@
         "content": "After ye have arrived in the promised land, ye shall know that I, the Lord, am God; and that I, the Lord, did deliver you from destruction; yea, that I did bring you out of the land of Jerusalem.",
         "verse": "13",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_singleton"
     },
     {
@@ -7059,18 +7059,18 @@
         "content": "Our brother is a fool, for he thinketh that he can build a ship; yea, and he also thinketh that he can cross these great waters.",
         "verse": "16",
         "book": "1 Nephi",
-        "speaker": "Nephi1's brethren",
+        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
         "type": "q_start"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And thus my brethren did complain against me, and were desirous that they might not labor, for they did not believe that I could build a ship; neither would they believe that I was instructed of the Lord.",
         "verse": "17",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
         "type": "q_end"
     },
     {
@@ -7092,7 +7092,7 @@
         "content": "We knew that ye could not construct a ship, for we knew that ye were lacking in judgment; wherefore, thou canst not accomplish so great a work.",
         "verse": "18",
         "book": "1 Nephi",
-        "speaker": "Nephi1's brethren",
+        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
         "type": "q_start"
     },
     {
@@ -7103,7 +7103,7 @@
         "content": "And thou art like unto our father, led away by the foolish imaginations of his heart; yea, he hath led us out of the land of Jerusalem, and we have wandered in the wilderness for these many years; and our women have toiled, being big with child; and they have borne children in the wilderness and suffered all things, save it were death; and it would have been better that they had died before they came out of Jerusalem than to have suffered these afflictions.",
         "verse": "19",
         "book": "1 Nephi",
-        "speaker": "Nephi1's brethren",
+        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
         "type": "q_middle"
     },
     {
@@ -7114,7 +7114,7 @@
         "content": "Behold, these many years we have suffered in the wilderness, which time we might have enjoyed our possessions and the land of our inheritance; yea, and we might have been happy.",
         "verse": "20",
         "book": "1 Nephi",
-        "speaker": "Nephi1's brethren",
+        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
         "type": "q_middle"
     },
     {
@@ -7125,7 +7125,7 @@
         "content": "And we know that the people who were in the land of Jerusalem were a righteous people; for they kept the statutes and judgments of the Lord, and all his commandments, according to the law of Moses; wherefore, we know that they are a righteous people; and our father hath judged them, and hath led us away because we would hearken unto his words; yea, and our brother is like unto him.",
         "verse": "21",
         "book": "1 Nephi",
-        "speaker": "Nephi1's brethren",
+        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
         "type": "q_end"
     },
     {
@@ -7154,364 +7154,365 @@
         "chapter": "17",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Do ye believe that our fathers, who were the children of Israel, would have been led away out of the hands of the Egyptians if they had not hearkened unto the words of the Lord?",
         "verse": "23",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_start"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Yea, do ye suppose that they would have been led out of bondage, if the Lord had not commanded Moses that he should lead them out of bondage?",
         "verse": "24",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Now ye know that the children of Israel were in bondage; and ye know that they were laden with tasks, which were grievous to be borne; wherefore, ye know that it must needs be a good thing for them, that they should be brought out of bondage.",
         "verse": "25",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Now ye know that Moses was commanded of the Lord to do that great work; and ye know that by his word the waters of the Red Sea were divided hither and thither, and they passed through on dry ground.",
         "verse": "26",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "But ye know that the Egyptians were drowned in the Red Sea, who were the armies of Pharaoh.",
         "verse": "27",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And ye also know that they were fed with manna in the wilderness.",
         "verse": "28",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Yea, and ye also know that Moses, by his word according to the power of God which was in him, smote the rock, and there came forth water, that the children of Israel might quench their thirst.",
         "verse": "29",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And notwithstanding they being led, the Lord their God, their Redeemer, going before them, leading them by day and giving light unto them by night, and doing all things for them which were expedient for man to receive, they hardened their hearts and blinded their minds, and reviled against Moses and against the true and living God.",
         "verse": "30",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_end"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And it came to pass that according to his word he did destroy them; and according to his word he did lead them; and according to his word he did do all things for them; and there was not any thing done save it were by his word.",
         "verse": "31",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_start"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_start"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And after they had crossed the river Jordan he did make them mighty unto the driving out of the children of the land, yea, unto the scattering them to destruction.",
         "verse": "32",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And now, do ye suppose that the children of this land, who were in the land of promise, who were driven out by our fathers, do ye suppose that they were righteous?",
         "verse": "33",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "2",
-        "section": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "speaking_to": null,
         "content": "Behold, I say unto you, Nay.",
         "verse": "33",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Do ye suppose that our fathers would have been more choice than they if they had been righteous?",
         "verse": "34",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "I say unto you, Nay.",
         "verse": "34",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Behold, the Lord esteemeth all flesh in one; he that is righteous is favored of God.",
         "verse": "35",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "But behold, this people had rejected every word of God, and they were ripe in iniquity; and the fulness of the wrath of God was upon them; and the Lord did curse the land against them, and bless it unto our fathers; yea, he did curse it against them unto their destruction, and he did bless it unto our fathers unto their obtaining power over it.",
         "verse": "35",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Behold, the Lord hath created the earth that it should be inhabited; and he hath created his children that they should possess it.",
         "verse": "36",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And he raiseth up a righteous nation, and destroyeth the nations of the wicked.",
         "verse": "37",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And he leadeth away the righteous into precious lands, and the wicked he destroyeth, and curseth the land unto them for their sakes.",
         "verse": "38",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "He ruleth high in the heavens, for it is his throne, and this earth is his footstool.",
         "verse": "39",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And he loveth those who will have him to be their God.",
         "verse": "40",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Behold, he loved our fathers, and he covenanted with them, yea, even Abraham, Isaac, and Jacob; and he remembered the covenants which he had made; wherefore, he did bring them out of the land of Egypt.",
         "verse": "40",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And he did straiten them in the wilderness with his rod; for they hardened their hearts, even as ye have; and the Lord straitened them because of their iniquity.",
         "verse": "41",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "He sent fiery flying serpents among them; and after they were bitten he prepared a way that they might be healed; and the labor which they had to perform was to look; and because of the simpleness of the way, or the easiness of it, there were many who perished.",
         "verse": "41",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And they did harden their hearts from time to time, and they did revile against Moses, and also against God; nevertheless, ye know that they were led forth by his matchless power into the land of promise.",
         "verse": "42",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And now, after all these things, the time has come that they have become wicked, yea, nearly unto ripeness; and I know not but they are at this day about to be destroyed; for I know that the day must surely come that they must be destroyed, save a few only, who shall be led away into captivity.",
         "verse": "43",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Wherefore, the Lord commanded my father that he should depart into the wilderness; and the Jews also sought to take away his life; yea, and ye also have sought to take away his life; wherefore, ye are murderers in your hearts and ye are like unto them.",
         "verse": "44",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Ye are swift to do iniquity but slow to remember the Lord your God.",
         "verse": "45",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Ye have seen an angel, and he spake unto you; yea, ye have heard his voice from time to time; and he hath spoken unto you in a still small voice, but ye were past feeling, that ye could not feel his words; wherefore, he has spoken unto you like unto the voice of thunder, which did cause the earth to shake as if it were to divide asunder.",
         "verse": "45",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And ye also know that by the power of his almighty word he can cause the earth that it shall pass away; yea, and ye know that by his word he can cause the rough places to be made smooth, and smooth places shall be broken up.",
         "verse": "46",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "O, then, why is it, that ye can be so hard in your hearts?",
         "verse": "46",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Behold, my soul is rent with anguish because of you, and my heart is pained; I fear lest ye shall be cast off forever.",
         "verse": "47",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_middle"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Behold, I am full of the Spirit of God, insomuch that my frame has no strength.",
         "verse": "47",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
-        "type": "p_end"
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_end"
     },
     {
         "chapter": "17",
@@ -7528,11 +7529,11 @@
         "chapter": "17",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "In the name of the Almighty God, I command you that ye touch me not, for I am filled with the power of God, even unto the consuming of my flesh; and whoso shall lay his hands upon me shall wither even as a dried reed; and he shall be as naught before the power of God, for God shall smite him.",
         "verse": "48",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -7540,10 +7541,21 @@
         "sentence": "1",
         "section": null,
         "speaking_to": null,
-        "content": "And it came to pass that I, Nephi, said unto them that they should murmur no more against their father; neither should they withhold their labor from me, for God had commanded me that I should build a ship.",
+        "content": "And it came to pass that I, Nephi, said unto them that",
         "verse": "49",
         "book": "1 Nephi",
         "speaker": "Nephi1",
+        "type": "p_start"
+    },
+    {
+        "chapter": "17",
+        "sentence": "1",
+        "section": null,
+        "speaking_to": ["Laman", "Lemuel"],
+        "content": "they should murmur no more against their father; neither should they withhold their labor from me, for God had commanded me that I should build a ship.",
+        "verse": "49",
+        "book": "1 Nephi",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "p_start"
     },
     {
@@ -7561,33 +7573,33 @@
         "chapter": "17",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "If God had commanded me to do all things I could do them.",
         "verse": "50",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_start"
     },
     {
         "chapter": "17",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "If he should command me that I should say unto this water, be thou earth, it should be earth; and if I should say it, it would be done.",
         "verse": "50",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "17",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And now, if the Lord has such great power, and has wrought so many miracles among the children of men, how is it that he cannot instruct me, that I should build a ship?",
         "verse": "51",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_end"
     },
     {
@@ -7627,11 +7639,11 @@
         "chapter": "17",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Stretch forth thine hand again unto thy brethren, and they shall not wither before thee, but I will shock them, saith the Lord, and this will I do, that they may know that I am the Lord their God.",
         "verse": "53",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_singleton"
     },
     {
@@ -7660,11 +7672,11 @@
         "chapter": "17",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "We know of a surety that the Lord is with thee, for we know that it is the power of the Lord that has shaken us.",
         "verse": "55",
         "book": "1 Nephi",
-        "speaker": "Nephi1's Brethren",
+        "speaker": ["Nephi1 quoting Laman", "Nephi1 quoting Lemuel"],
         "type": "q_singleton"
     },
     {
@@ -7682,11 +7694,11 @@
         "chapter": "17",
         "sentence": "2.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "I am thy brother, yea, even thy younger brother; wherefore, worship the Lord thy God, and honor thy father and thy mother, that thy days may be long in the land which the Lord thy God shall give thee.",
         "verse": "55",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
