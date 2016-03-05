@@ -601,7 +601,7 @@
         "content": "Blessed art thou, Nephi, because of thy faith, for thou hast sought me diligently, with lowliness of heart.",
         "verse": "19",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_start"
     },
     {
@@ -612,7 +612,7 @@
         "content": "And inasmuch as ye shall keep my commandments, ye shall prosper, and shall be led to a land of promise; yea, even a land which I have prepared for you; yea, a land which is choice above all other lands.",
         "verse": "20",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_middle"
     },
     {
@@ -623,7 +623,7 @@
         "content": "And inasmuch as thy brethren shall rebel against thee, they shall be cut off from the presence of the Lord.",
         "verse": "21",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_middle"
     },
     {
@@ -634,7 +634,7 @@
         "content": "And inasmuch as thou shalt keep my commandments, thou shalt be made a ruler and a teacher over thy brethren.",
         "verse": "22",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_middle"
     },
     {
@@ -645,7 +645,7 @@
         "content": "For behold, in that day that they shall rebel against me, I will curse them even with a sore curse, and they shall have no power over thy seed except they shall rebel against me also.",
         "verse": "23",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_middle"
     },
     {
@@ -656,7 +656,7 @@
         "content": "And if it so be that they rebel against me, they shall be a scourge unto thy seed, to stir them up in the ways of remembrance.",
         "verse": "24",
         "book": "1 Nephi",
-        "speaker": "the Lord",
+        "speaker": "Nephi1 quoting the Lord",
         "type": "q_end"
     },
     {
@@ -751,11 +751,11 @@
         "chapter": "3",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Lehi1",
         "content": "I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them.",
         "verse": "7",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -850,12 +850,12 @@
         "chapter": "3",
         "sentence": "2.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Laman",
         "content": "Behold thou art a robber, and I will slay thee.",
         "verse": "13",
         "book": "1 Nephi",
-        "speaker": "Laban",
-        "type": "q_start"
+        "speaker": "Nephi1 quoting Laban",
+        "type": "q_singleton"
     },
     {
         "chapter": "3",
@@ -866,7 +866,7 @@
         "verse": "14",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_middle"
+        "type": "p_start"
     },
     {
         "chapter": "3",
@@ -877,7 +877,7 @@
         "verse": "14",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_end"
+        "type": "p_middle"
     },
     {
         "chapter": "3",
@@ -888,94 +888,94 @@
         "verse": "15",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "p_singleton"
+        "type": "p_end"
     },
     {
         "chapter": "3",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "As the Lord liveth, and as we live, we will not go down unto our father in the wilderness until we have accomplished the thing which the Lord hath commanded us.",
         "verse": "15",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_start"
     },
     {
         "chapter": "3",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Wherefore, let us be faithful in keeping the commandments of the Lord; therefore let us go down to the land of our father's inheritance, for behold he left gold and silver, and all manner of riches.",
         "verse": "16",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "3",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And all this he hath done because of the commandments of the Lord.",
         "verse": "16",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "3",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "For he knew that Jerusalem must be destroyed, because of the wickedness of the people.",
         "verse": "17",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "3",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "For behold, they have rejected the words of the prophets.",
         "verse": "18",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "3",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Wherefore, if my father should dwell in the land after he hath been commanded to flee out of the land, behold, he would also perish.",
         "verse": "18",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "3",
         "sentence": "3",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Wherefore, it must needs be that he flee out of the land.",
         "verse": "18",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "3",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And behold, it is wisdom in God that we should obtain these records, that we may preserve unto our children the language of our fathers; And also that we may preserve unto them the words which have been spoken by the mouth of all the holy prophets, which have been delivered unto them by the Spirit and power of God, since the world began, even down unto this present time.",
         "verse": "19",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_end"
     },
     {
@@ -1092,44 +1092,44 @@
         "chapter": "3",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Why do ye smite your younger brother with a rod?",
         "verse": "29",
         "book": "1 Nephi",
-        "speaker": "an angel of the Lord",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "3",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Know ye not that the Lord hath chosen him to be a ruler over you, and this because of your iniquities?",
         "verse": "29",
         "book": "1 Nephi",
-        "speaker": "an angel of the Lord",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "3",
         "sentence": "3",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Behold ye shall go up to Jerusalem again, and the Lord will deliver Laban into your hands.",
         "verse": "29",
         "book": "1 Nephi",
-        "speaker": "an angel of the Lord",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_end"
     },
     {
         "chapter": "3",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "And after the angel had spoken unto us, he departed.",
         "verse": "30",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting an angel",
         "type": "p_start"
     },
     {
@@ -1147,22 +1147,22 @@
         "chapter": "3",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "How is it possible that the Lord will deliver Laban into our hands?",
         "verse": "31",
         "book": "1 Nephi",
-        "speaker": "Laman and Lemuel",
+        "speaker": ["Laman", "Lemuel"],
         "type": "q_start"
     },
     {
         "chapter": "3",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold, he is a mighty man, and he can command fifty, yea, even he can slay fifty; then why not us?",
         "verse": "31",
         "book": "1 Nephi",
-        "speaker": "Laman and Lemuel",
+        "speaker": ["Laman", "Lemuel"],
         "type": "q_end"
     },
     {
@@ -1180,33 +1180,33 @@
         "chapter": "4",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Let us go up again unto Jerusalem, and let us be faithful in keeping the commandments of the Lord; for behold he is mightier than all the earth, then why not mightier than Laban and his fifty, yea, or even than his tens of thousands?",
         "verse": "1",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_start"
     },
     {
         "chapter": "4",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Therefore let us go up; let us be strong like unto Moses; for he truly spake unto the waters of the Red Sea and they divided hither and thither, and our fathers came through, out of captivity, on dry ground, and the armies of Pharaoh did follow and were drowned in the waters of the Red Sea.",
         "verse": "2",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
         "chapter": "4",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": ["Laman", "Lemuel"],
         "content": "Now behold ye know that this is true; and ye also know that an angel hath spoken unto you; wherefore can ye doubt?",
         "verse": "3",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -1312,22 +1312,22 @@
         "chapter": "4",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Never at any time have I shed the blood of man.",
         "verse": "10",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 qouting Nephi1",
         "type": "q_start"
     },
     {
         "chapter": "4",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And I shrunk and would that I might not slay him.",
         "verse": "10",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_end"
     },
     {
@@ -1345,7 +1345,7 @@
         "chapter": "4",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold the Lord hath delivered him into thy hands.",
         "verse": "11",
         "book": "1 Nephi",
@@ -1789,7 +1789,7 @@
         "content": "Behold thou hast led us forth from the land of our inheritance, and my sons are no more, and we perish in the wilderness.",
         "verse": "2",
         "book": "1 Nephi",
-        "speaker": "Sariah",
+        "speaker": "Nephi1 quoting Sariah",
         "type": "q_singleton"
     },
     {
@@ -1877,7 +1877,7 @@
         "content": "Now I know of a surety that the Lord hath commanded my husband to flee into the wilderness; yea, and I also know of a surety that the Lord hath protected my sons, and delivered them out of the hands of Laban, and given them power whereby they could accomplish the thing which the Lord hath commanded them.",
         "verse": "8",
         "book": "1 Nephi",
-        "speaker": "Sariah",
+        "speaker": "Nephi1 quoting Sariah",
         "type": "q_singleton"
     },
     {
@@ -2196,7 +2196,7 @@
         "content": "Behold ye are mine elder brethren, and how is it that ye are so hard in your hearts, and so blind in your minds, that ye have need that I, your younger brother, should speak unto you, yea, and set an example for you?",
         "verse": "7",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_start"
     },
     {
@@ -2207,7 +2207,7 @@
         "content": "How is it that ye have not hearkened unto the word of the Lord?",
         "verse": "8",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2218,7 +2218,7 @@
         "content": "How is it that ye have forgotten that ye have seen an angel of the Lord?",
         "verse": "9",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2229,7 +2229,7 @@
         "content": "Yea, and how is it that ye have forgotten what great things the Lord hath done for us, in delivering us out of the hands of Laban, and also that we should obtain the record?",
         "verse": "10",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2240,7 +2240,7 @@
         "content": "Yea, and how is it that ye have forgotten that the Lord is able to do all things according to his will, for the children of men, if it so be that they exercise faith in him?",
         "verse": "11",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2251,7 +2251,7 @@
         "content": "Wherefore, let us be faithful to him.",
         "verse": "12",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2262,7 +2262,7 @@
         "content": "And if it so be that we are faithful to him, we shall obtain the land of promise; and ye shall know at some future period that the word of the Lord shall be fulfilled concerning the destruction of Jerusalem; for all things which the Lord hath spoken concerning the destruction of Jerusalem must be fulfilled.",
         "verse": "13",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2273,7 +2273,7 @@
         "content": "For behold, the Spirit of the Lord ceaseth soon to strive with them; for behold, they have rejected the prophets, and Jeremiah have they cast into prison.",
         "verse": "14",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2284,7 +2284,7 @@
         "content": "And they have sought to take away the life of my father, insomuch that they have driven him out of the land.",
         "verse": "14",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2295,7 +2295,7 @@
         "content": "Now behold, I say unto you that if ye will return unto Jerusalem ye shall also perish with them.",
         "verse": "15",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_middle"
     },
     {
@@ -2306,7 +2306,7 @@
         "content": "And now, if ye have choice, go up to the land, and remember the words which I speak unto you, that if ye go ye will also perish; for thus the Spirit of the Lord constraineth me that I should speak.",
         "verse": "15",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_end"
     },
     {
@@ -3440,7 +3440,7 @@
         "content": "I behold thou hast shown unto me the tree which is precious above all.",
         "verse": "9",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -3484,7 +3484,7 @@
         "content": "To know the interpretation thereof--for I spake unto him as a man speaketh; for I beheld that he was in the form of a man; yet nevertheless, I knew that it was the Spirit of the Lord; and he spake unto me as a man speaketh with another.",
         "verse": "11",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -3561,7 +3561,7 @@
         "content": "Nephi, what beholdest thou?",
         "verse": "14",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -3583,7 +3583,7 @@
         "content": "A virgin, most beautiful and fair above all other virgins.",
         "verse": "15",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -3605,7 +3605,7 @@
         "content": "Knowest thou the condescension of God?",
         "verse": "16",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -3623,11 +3623,11 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "an angel",
         "content": "I know that he loveth his children; nevertheless, I do not know the meaning of all things.",
         "verse": "17",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -3645,11 +3645,11 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold, the virgin whom thou seest is the mother of the Son of God, after the manner of the flesh.",
         "verse": "18",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -3667,11 +3667,11 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look!",
         "verse": "19",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -3700,22 +3700,22 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold the Lamb of God, yea, even the Son of the Eternal Father!",
         "verse": "21",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "11",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Knowest thou the meaning of the tree which thy father saw?",
         "verse": "21",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_end"
     },
     {
@@ -3733,11 +3733,11 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "an angel",
         "content": "Yea, it is the love of God, which sheddeth itself abroad in the hearts of the children of men; wherefore, it is the most desirable above all things.",
         "verse": "22",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -3755,11 +3755,11 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Yea, and the most joyous to the soul.",
         "verse": "23",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -3777,11 +3777,11 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look!",
         "verse": "24",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
@@ -3821,11 +3821,11 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look and behold the condescension of God!",
         "verse": "26",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -3898,12 +3898,12 @@
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look!",
         "verse": "30",
         "book": "1 Nephi",
-        "speaker": "an angel",
-        "type": "q_start"
+        "speaker": "Nephi1 quoting an angel",
+        "type": "q_singleton"
     },
     {
         "chapter": "11",
@@ -3914,7 +3914,7 @@
         "verse": "30",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_end"
+        "type": "p_start"
     },
     {
         "chapter": "11",
@@ -3925,18 +3925,18 @@
         "verse": "31",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "p_singleton"
+        "type": "p_end"
     },
     {
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look!",
         "verse": "31",
         "book": "1 Nephi",
-        "speaker": "an angel",
-        "type": "q_start"
+        "speaker": "Nephi1 quoting an angel",
+        "type": "q_singleton"
     },
     {
         "chapter": "11",
@@ -3947,7 +3947,7 @@
         "verse": "31",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_middle"
+        "type": "p_start"
     },
     {
         "chapter": "11",
@@ -3958,7 +3958,7 @@
         "verse": "31",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_middle"
+        "type": "p_middle"
     },
     {
         "chapter": "11",
@@ -3969,7 +3969,7 @@
         "verse": "31",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_end"
+        "type": "p_middle"
     },
     {
         "chapter": "11",
@@ -3980,17 +3980,17 @@
         "verse": "32",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "p_singleton"
+        "type": "p_end"
     },
     {
         "chapter": "11",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look!",
         "verse": "32",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4052,11 +4052,11 @@
         "chapter": "11",
         "sentence": "2.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold the world and the wisdom thereof; yea, behold the house of Israel hath gathered together to fight against the twelve apostles of the Lamb.",
         "verse": "35",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4085,11 +4085,11 @@
         "chapter": "11",
         "sentence": "2.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Thus shall be the destruction of all nations, kindreds, tongues, and people, that shall fight against the twelve apostles of the Lamb.",
         "verse": "36",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4107,11 +4107,11 @@
         "chapter": "12",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look, and behold thy seed, and also the seed of thy brethren.",
         "verse": "1",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4206,11 +4206,11 @@
         "chapter": "12",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold the twelve disciples of the Lamb, who are chosen to minister unto thy seed.",
         "verse": "8",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4228,44 +4228,44 @@
         "chapter": "12",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Thou rememberest the twelve apostles of the Lamb?",
         "verse": "9",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "12",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold they are they who shall judge the twelve tribes of Israel; wherefore, the twelve ministers of thy seed shall be judged of them; for ye are of the house of Israel.",
         "verse": "9",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "12",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And these twelve ministers whom thou beholdest shall judge thy seed.",
         "verse": "10",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "12",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And, behold, they are righteous forever; for because of their faith in the Lamb of God their garments are made white in his blood.",
         "verse": "10",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_end"
     },
     {
@@ -4283,12 +4283,12 @@
         "chapter": "12",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look!",
         "verse": "11",
         "book": "1 Nephi",
-        "speaker": "an angel",
-        "type": "q_start"
+        "speaker": "Nephi1 quoting an angel",
+        "type": "q_singleton"
     },
     {
         "chapter": "12",
@@ -4299,7 +4299,7 @@
         "verse": "11",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_end"
+        "type": "p_start"
     },
     {
         "chapter": "12",
@@ -4310,18 +4310,18 @@
         "verse": "11",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "p_singleton"
+        "type": "p_end"
     },
     {
         "chapter": "12",
         "sentence": "3.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "These are made white in the blood of the Lamb, because of their faith in him.",
         "verse": "11",
         "book": "1 Nephi",
-        "speaker": "an angel",
-        "type": "q_start"
+        "speaker": "Nephi1 quoting an angel",
+        "type": "q_singleton"
     },
     {
         "chapter": "12",
@@ -4332,7 +4332,7 @@
         "verse": "12",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_end"
+        "type": "p_start"
     },
     {
         "chapter": "12",
@@ -4343,7 +4343,7 @@
         "verse": "13",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "p_start"
+        "type": "p_middle"
     },
     {
         "chapter": "12",
@@ -4360,11 +4360,11 @@
         "chapter": "12",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold thy seed, and also the seed of thy brethren.",
         "verse": "14",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4393,44 +4393,44 @@
         "chapter": "12",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold the fountain of filthy water which thy father saw; yea, even the river of which he spake; and the depths thereof are the depths of hell.",
         "verse": "16",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "12",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And the mists of darkness are the temptations of the devil, which blindeth the eyes, and hardeneth the hearts of the children of men, and leadeth them away into broad roads, that they perish and are lost.",
         "verse": "17",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "12",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And the large and spacious building, which thy father saw, is vain imaginations and the pride of the children of men.",
         "verse": "18",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "12",
         "sentence": "2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And a great and a terrible gulf divideth them; yea, even the word of the justice of the Eternal God, and the Messiah who is the Lamb of God, of whom the Holy Ghost beareth record, from the beginning of the world until this time, and from this time henceforth and forever.",
         "verse": "18",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_end"
     },
     {
@@ -4481,11 +4481,11 @@
         "chapter": "12",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold these shall dwindle in unbelief.",
         "verse": "22",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4497,7 +4497,7 @@
         "verse": "23",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "p_singleton"
+        "type": "p_start"
     },
     {
         "chapter": "13",
@@ -4508,17 +4508,17 @@
         "verse": "1",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "p_singleton"
+        "type": "p_end"
     },
     {
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look!",
         "verse": "1",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4547,11 +4547,11 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "What beholdest thou?",
         "verse": "2",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4569,11 +4569,11 @@
         "chapter": "13",
         "sentence": "2.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "an angel",
         "content": "I behold many nations and kingdoms.",
         "verse": "2",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -4591,11 +4591,11 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "These are the nations and kingdoms of the Gentiles.",
         "verse": "3",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4624,11 +4624,11 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to":"Nephi1",
         "content": "Behold the formation of a church which is most abominable above all other churches, which slayeth the saints of God, yea, and tortureth them and bindeth them down, and yoketh them with a yoke of iron, and bringeth them down into captivity.",
         "verse": "5",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4668,22 +4668,22 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold the gold, and the silver, and the silks, and the scarlets, and the fine-twined linen, and the precious clothing, and the harlots, are the desires of this great and abominable church.",
         "verse": "8",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And also for the praise of the world do they destroy the saints of God, and bring them down into captivity.",
         "verse": "9",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_end"
     },
     {
@@ -4712,11 +4712,11 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold the wrath of God is upon the seed of thy brethren.",
         "verse": "11",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4833,11 +4833,11 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Knowest thou the meaning of the book?",
         "verse": "21",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4855,11 +4855,11 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "an angel",
         "content": "I know not.",
         "verse": "22",
         "book": "1 Nephi",
-        "speaker": "Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_singleton"
     },
     {
@@ -4877,11 +4877,11 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold it proceedeth out of the mouth of a Jew.",
         "verse": "23",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4899,11 +4899,11 @@
         "chapter": "13",
         "sentence": "2.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "The book that thou beholdest is a record of the Jews, which contains the covenants of the Lord, which he hath made unto the house of Israel; and it also containeth many of the prophecies of the holy prophets; and it is a record like unto the engravings which are upon the plates of brass, save there are not so many; nevertheless, they contain the covenants of the Lord, which he hath made unto the house of Israel; wherefore, they are of great worth unto the Gentiles.",
         "verse": "23",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -4921,121 +4921,121 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Thou hast beheld that the book proceeded forth from the mouth of a Jew; and when it proceeded forth from the mouth of a Jew it contained the fulness of the gospel of the Lord, of whom the twelve apostles bear record; and they bear record according to the truth which is in the Lamb of God.",
         "verse": "24",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Wherefore, these things go forth from the Jews in purity unto the Gentiles, according to the truth which is in God.",
         "verse": "25",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And after they go forth by the hand of the twelve apostles of the Lamb, from the Jews unto the Gentiles, thou seest the formation of a great and abominable church, which is most abominable above all other churches; for behold, they have taken away from the gospel of the Lamb many parts which are plain and most precious; and also many covenants of the Lord have they taken away.",
         "verse": "26",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And all this have they done that they might pervert the right ways of the Lord, that they might blind the eyes and harden the hearts of the children of men.",
         "verse": "27",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Wherefore, thou seest that after the book hath gone forth through the hands of the great and abominable church, that there are many plain and precious things taken away from the book, which is the book of the Lamb of God.",
         "verse": "28",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And after these plain and precious things were taken away it goeth forth unto all the nations of the Gentiles; and after it goeth forth unto all the nations of the Gentiles, yea, even across the many waters which thou hast seen with the Gentiles which have gone forth out of captivity, thou seest--because of the many plain and precious things which have been taken out of the book, which were plain unto the understanding of the children of men, according to the plainness which is in the Lamb of God--because of these things which are taken away out of the gospel of the Lamb, an exceedingly great many do stumble, yea, insomuch that Satan hath great power over them.",
         "verse": "29",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Nevertheless, thou beholdest that the Gentiles who have gone forth out of captivity, and have been lifted up by the power of God above all other nations, upon the face of the land which is choice above all other lands, which is the land that the Lord God hath covenanted with thy father that his seed should have for the land of their inheritance; wherefore, thou seest that the Lord God will not suffer that the Gentiles will utterly destroy the mixture of thy seed, which are among thy brethren.",
         "verse": "30",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Neither will he suffer that the Gentiles shall destroy the seed of thy brethren.",
         "verse": "31",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Neither will the Lord God suffer that the Gentiles shall forever remain in that awful state of blindness, which thou beholdest they are in, because of the plain and most precious parts of the gospel of the Lamb which have been kept back by that abominable church, whose formation thou hast seen.",
         "verse": "32",
         "book": "1 Nephi",
-        "speaker": "an angel",
-        "type": "q_end"
+        "speaker": "Nephi1 quoting an angel",
+        "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1.1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Wherefore saith the Lamb of God:",
         "verse": "33",
         "book": "1 Nephi",
-        "speaker": "an angel",
-        "type": "p_singleton"
+        "speaker": "Nephi1 quoting an angel",
+        "type": "q_end"
     },
     {
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "I will be merciful unto the Gentiles, unto the visiting of the remnant of the house of Israel in great judgment.",
         "verse": "33",
         "book": "1 Nephi",
-        "speaker": "the Lamb of God",
+        "speaker": "Nephi1 quoting an angel quoting the Lamb of God",
         "type": "q_singleton"
     },
     {
@@ -5053,55 +5053,55 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel--and this remnant of whom I speak is the seed of thy father--wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb--I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.",
         "verse": "34",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel quoting the Lamb of God",
         "type": "q_singleton"
     },
     {
         "chapter": "13",
         "sentence": "1.1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "For, behold, saith the Lamb:",
         "verse": "35",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "p_singleton"
     },
     {
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "I will manifest myself unto thy seed, that they shall write many things which I shall minister unto them, which shall be plain and precious; and after thy seed shall be destroyed, and dwindle in unbelief, and also the seed of thy brethren, behold, these things shall be hid up, to come forth unto the Gentiles, by the gift and power of the Lamb.",
         "verse": "35",
         "book": "1 Nephi",
-        "speaker": "the Lamb",
+        "speaker": "Nephi1 quoting an angel quoting the Lamb of God",
         "type": "q_start"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And in them shall be written my gospel, saith the Lamb, and my rock and my salvation.",
         "verse": "36",
         "book": "1 Nephi",
-        "speaker": "the Lamb",
+        "speaker": "Nephi1 quoting an angel quoting the Lamb of God",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And blessed are they who shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost; and if they endure unto the end they shall be lifted up at the last day, and shall be saved in the everlasting kingdom of the Lamb; and whoso shall publish peace, yea, tidings of great joy, how beautiful upon the mountains shall they be.",
         "verse": "37",
         "book": "1 Nephi",
-        "speaker": "the Lamb",
+        "speaker": "Nephi1 quoting an angel quoting the Lamb of God",
         "type": "q_end"
     },
     {
@@ -5141,66 +5141,66 @@
         "chapter": "13",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved.",
         "verse": "40",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And they must come according to the words which shall be established by the mouth of the Lamb; and the words of the Lamb shall be made known in the records of thy seed, as well as in the records of the twelve apostles of the Lamb; wherefore they both shall be established in one; for there is one God and one Shepherd over all the earth.",
         "verse": "41",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "13",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And the time cometh that he shall manifest himself unto all nations, both unto the Jews and also unto the Gentiles; and after he has manifested himself unto the Jews and also unto the Gentiles, then he shall manifest himself unto the Gentiles and also unto the Jews, and the last shall be first, and the first shall be last.",
         "verse": "42",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And it shall come to pass, that if the Gentiles shall hearken unto the Lamb of God in that day that he shall manifest himself unto them in word, and also in power, in very deed, unto the taking away of their stumbling blocks-- And harden not their hearts against the Lamb of God, they shall be numbered among the seed of thy father; yea, they shall be numbered among the house of Israel; and they shall be a blessed people upon the promised land forever; they shall be no more brought down into captivity; and the house of Israel shall no more be confounded.",
         "verse": "1",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And that great pit, which hath been digged for them by that great and abominable church, which was founded by the devil and his children, that he might lead away the souls of men down to hell--yea, that great pit which hath been digged for the destruction of men shall be filled by those who digged it, unto their utter destruction, saith the Lamb of God; not the destruction of the soul, save it be the casting of it into that hell which hath no end.",
         "verse": "2",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "For behold, this is according to the captivity of the devil, and also according to the justice of God, upon all those who will work wickedness and abomination before him.",
         "verse": "3",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_end"
     },
     {
@@ -5218,33 +5218,33 @@
         "chapter": "14",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Thou hast beheld that if the Gentiles repent it shall be well with them; and thou also knowest concerning the covenants of the Lord unto the house of Israel; and thou also hast heard that whoso repenteth not must perish.",
         "verse": "4",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Therefore, wo be unto the Gentiles if it so be that they harden their hearts against the Lamb of God.",
         "verse": "5",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "For the time cometh, saith the Lamb of God, that I will work a great and a marvelous work among the children of men; a work which shall be everlasting, either on the one hand or on the other--either to the convincing of them unto peace and life eternal, or unto the deliverance of them to the hardness of their hearts and the blindness of their minds unto their being brought down into captivity, and also into destruction, both temporally and spiritually, according to the captivity of the devil, of which I have spoken.",
         "verse": "6",
         "book": "1 Nephi",
-        "speaker": "the Lamb of God",
+        "speaker": "Nephi1 quoting an angel quoting the Lamb of God",
         "type": "q_end"
     },
     {
@@ -5262,23 +5262,34 @@
         "chapter": "14",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Rememberest thou the covenants of the Father unto the house of Israel?",
         "verse": "7",
         "book": "1 Nephi",
-        "speaker": "an angel",
-        "type": "q_start"
+        "speaker": "Nephi1 quoting an angel",
+        "type": "q_singleton"
     },
     {
         "chapter": "14",
-        "sentence": "1",
+        "sentence": "1.1",
         "section": null,
         "speaking_to": null,
-        "content": "I said unto him, Yea.",
+        "content": "I said unto him,",
         "verse": "8",
         "book": "1 Nephi",
         "speaker": "Nephi1",
-        "type": "q_end"
+        "type": "p_singleton"
+    },
+    {
+        "chapter": "14",
+        "sentence": "1.2",
+        "section": null,
+        "speaking_to": "an angel",
+        "content": "Yea.",
+        "verse": "8",
+        "book": "1 Nephi",
+        "speaker": "Nephi1 quoting Nephi1",
+        "type": "q_singleton"
     },
     {
         "chapter": "14",
@@ -5295,11 +5306,11 @@
         "chapter": "14",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look, and behold that great and abominable church, which is the mother of abominations, whose founder is the devil.",
         "verse": "9",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -5317,11 +5328,11 @@
         "chapter": "14",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold there are save two churches only; the one is the church of the Lamb of God, and the other is the church of the devil; wherefore, whoso belongeth not to the church of the Lamb of God belongeth to that great church, which is the mother of abominations; and she is the whore of all the earth.",
         "verse": "10",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -5394,11 +5405,11 @@
         "chapter": "14",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold, the wrath of God is upon the mother of harlots; and behold, thou seest all these things-- And when the day cometh that the wrath of God is poured out upon the mother of harlots, which is the great and abominable church of all the earth, whose founder is the devil, then, at that day, the work of the Father shall commence, in preparing the way for the fulfilling of his covenants, which he hath made to his people who are of the house of Israel.",
         "verse": "16",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -5416,11 +5427,11 @@
         "chapter": "14",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Look!",
         "verse": "17",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_singleton"
     },
     {
@@ -5449,77 +5460,77 @@
         "chapter": "14",
         "sentence": "1.2",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold one of the twelve apostles of the Lamb.",
         "verse": "19",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_start"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Behold, he shall see and write the remainder of these things; yea, and also many things which have been.",
         "verse": "20",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And he shall also write concerning the end of the world.",
         "verse": "21",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "Wherefore, the things which he shall write are just and true; and behold they are written in the book which thou beheld proceeding out of the mouth of the Jew; and at the time they proceeded out of the mouth of the Jew, or, at the time the book proceeded out of the mouth of the Jew, the things which were written were plain and pure, and most precious and easy to the understanding of all men.",
         "verse": "22",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And behold, the things which this apostle of the Lamb shall write are many things which thou hast seen; and behold, the remainder shalt thou see.",
         "verse": "23",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "But the things which thou shalt see hereafter thou shalt not write; for the Lord God hath ordained the apostle of the Lamb of God that he should write them.",
         "verse": "24",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_middle"
     },
     {
         "chapter": "14",
         "sentence": "1",
         "section": null,
-        "speaking_to": null,
+        "speaking_to": "Nephi1",
         "content": "And also others who have been, to them hath he shown all things, and they have written them; and they are sealed up to come forth in their purity, according to the truth which is in the Lamb, in the own due time of the Lord, unto the house of Israel.",
         "verse": "25",
         "book": "1 Nephi",
-        "speaker": "an angel",
+        "speaker": "Nephi1 quoting an angel",
         "type": "q_end"
     },
     {
