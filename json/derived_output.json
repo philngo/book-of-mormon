@@ -1316,7 +1316,7 @@
         "content": "Never at any time have I shed the blood of man.",
         "verse": "10",
         "book": "1 Nephi",
-        "speaker": "Nephi1 qouting Nephi1",
+        "speaker": "Nephi1 quoting Nephi1",
         "type": "q_start"
     },
     {
@@ -7059,7 +7059,7 @@
         "content": "Our brother is a fool, for he thinketh that he can build a ship; yea, and he also thinketh that he can cross these great waters.",
         "verse": "16",
         "book": "1 Nephi",
-        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
+        "speaker": ["Nephi1 quoting Laman", "Nephi1 quoting Lemuel"],
         "type": "q_start"
     },
     {
@@ -7070,7 +7070,7 @@
         "content": "And thus my brethren did complain against me, and were desirous that they might not labor, for they did not believe that I could build a ship; neither would they believe that I was instructed of the Lord.",
         "verse": "17",
         "book": "1 Nephi",
-        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
+        "speaker": ["Nephi1 quoting Laman", "Nephi1 quoting Lemuel"],
         "type": "q_end"
     },
     {
@@ -7092,7 +7092,7 @@
         "content": "We knew that ye could not construct a ship, for we knew that ye were lacking in judgment; wherefore, thou canst not accomplish so great a work.",
         "verse": "18",
         "book": "1 Nephi",
-        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
+        "speaker": ["Nephi1 quoting Laman", "Nephi1 quoting Lemuel"],
         "type": "q_start"
     },
     {
@@ -7103,7 +7103,7 @@
         "content": "And thou art like unto our father, led away by the foolish imaginations of his heart; yea, he hath led us out of the land of Jerusalem, and we have wandered in the wilderness for these many years; and our women have toiled, being big with child; and they have borne children in the wilderness and suffered all things, save it were death; and it would have been better that they had died before they came out of Jerusalem than to have suffered these afflictions.",
         "verse": "19",
         "book": "1 Nephi",
-        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
+        "speaker": ["Nephi1 quoting Laman", "Nephi1 quoting Lemuel"],
         "type": "q_middle"
     },
     {
@@ -7114,7 +7114,7 @@
         "content": "Behold, these many years we have suffered in the wilderness, which time we might have enjoyed our possessions and the land of our inheritance; yea, and we might have been happy.",
         "verse": "20",
         "book": "1 Nephi",
-        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
+        "speaker": ["Nephi1 quoting Laman", "Nephi1 quoting Lemuel"],
         "type": "q_middle"
     },
     {
@@ -7125,7 +7125,7 @@
         "content": "And we know that the people who were in the land of Jerusalem were a righteous people; for they kept the statutes and judgments of the Lord, and all his commandments, according to the law of Moses; wherefore, we know that they are a righteous people; and our father hath judged them, and hath led us away because we would hearken unto his words; yea, and our brother is like unto him.",
         "verse": "21",
         "book": "1 Nephi",
-        "speaker": ["Nephi1 quoing Laman", "Nephi1 quoting Lemuel"],
+        "speaker": ["Nephi1 quoting Laman", "Nephi1 quoting Lemuel"],
         "type": "q_end"
     },
     {
@@ -89297,7 +89297,7 @@
         "content": "And now my brethren, I judge these things of you because of your peaceable walk with the children of men.",
         "verse": "1",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89308,7 +89308,7 @@
         "content": "For I remember the word of God, which saith by their works ye shall know them; for if their works be good, then they are good also.",
         "verse": "2",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89319,7 +89319,7 @@
         "content": "For behold, God hath said a man being evil cannot do that which is good; for if he offereth a gift, or prayeth unto God, except he shall do it with real intent it profiteth him nothing.",
         "verse": "3",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89330,7 +89330,7 @@
         "content": "For behold, it is not counted unto him for righteousness.",
         "verse": "4",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89341,7 +89341,7 @@
         "content": "For behold, if a man being evil giveth a gift, he doeth it grudgingly; wherefore it is counted unto him the same as if he had retained the gift; wherefore he is counted evil before God.",
         "verse": "5",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89352,7 +89352,7 @@
         "content": "And likewise also is it counted evil unto a man, if he shall pray and not with real intent of heart; yea, and it profiteth him nothing, for God receiveth none such.",
         "verse": "6",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89363,7 +89363,7 @@
         "content": "Wherefore, a man being evil cannot do that which is good; neither will he give a good gift.",
         "verse": "7",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89374,7 +89374,7 @@
         "content": "For behold, a bitter fountain cannot bring forth good water; neither can a good fountain bring forth bitter water; wherefore, a man being a servant of the devil cannot follow Christ; and if he follow Christ he cannot be a servant of the devil.",
         "verse": "8",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89385,7 +89385,7 @@
         "content": "Wherefore, all things which are good cometh of God; and that which is evil cometh of the devil; for the devil is an enemy unto God, and fighteth against him continually, and inviteth and enticeth to sin, and to do that which is evil continually.",
         "verse": "9",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89396,7 +89396,7 @@
         "content": "But behold, that which is of God inviteth and enticeth to do good continually; wherefore, every thing which inviteth and enticeth to do good, and to love God, and to serve him, is inspired of God.",
         "verse": "10",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89407,7 +89407,7 @@
         "content": "Wherefore, take heed, my beloved brethren, that ye do not judge that which is evil to be of God, or that which is good and of God to be of the devil.",
         "verse": "11",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89418,7 +89418,7 @@
         "content": "For behold, my brethren, it is given unto you to judge, that ye may know good from evil; and the way to judge is as plain, that ye may know with a perfect knowledge, as the daylight is from the dark night.",
         "verse": "12",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89429,7 +89429,7 @@
         "content": "For behold, the Spirit of Christ is given to every man, that he may know good from evil; wherefore, I show unto you the way to judge; for every thing which inviteth to do good, and to persuade to believe in Christ, is sent forth by the power and gift of Christ; wherefore ye may know with a perfect knowledge it is of God.",
         "verse": "13",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89440,7 +89440,7 @@
         "content": "But whatsoever thing persuadeth men to do evil, and believe not in Christ, and deny him, and serve not God, then ye may know with a perfect knowledge it is of the devil; for after this manner doth the devil work, for he persuadeth no man to do good, no, not one; neither do his angels; neither do they who subject themselves unto him.",
         "verse": "14",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89451,7 +89451,7 @@
         "content": "And now, my brethren, seeing that ye know the light by which ye may judge, which light is the light of Christ, see that ye do not judge wrongfully; for with that same judgment which ye judge ye shall also be judged.",
         "verse": "15",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89462,7 +89462,7 @@
         "content": "Wherefore, I beseech of you, brethren, that ye should search diligently in the light of Christ that ye may know good from evil; and if ye will lay hold upon every good thing, and condemn it not, ye certainly will be a child of Christ.",
         "verse": "16",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89473,7 +89473,7 @@
         "content": "And now, my brethren, how is it possible that ye can lay hold upon every good thing?",
         "verse": "17",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89484,7 +89484,7 @@
         "content": "And now I come to that faith, of which I said I would speak; and I will tell you the way whereby ye may lay hold on every good thing.",
         "verse": "18",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89495,7 +89495,7 @@
         "content": "For behold, God knowing all things, being from everlasting to everlasting, behold, he sent angels to minister unto the children of men, to make manifest concerning the coming of Christ; and in Christ there should come every good thing.",
         "verse": "19",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89506,7 +89506,7 @@
         "content": "And God also declared unto prophets, by his own mouth, that Christ should come.",
         "verse": "20",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89517,7 +89517,7 @@
         "content": "And behold, there were divers ways that he did manifest things unto the children of men, which were good; and all things which are good cometh of Christ; otherwise men were fallen, and there could no good thing come unto them.",
         "verse": "21",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89528,7 +89528,7 @@
         "content": "Wherefore, by the ministering of angels, and by every word which proceeded forth out of the mouth of God, men began to exercise faith in Christ; and thus by faith, they did lay hold upon every good thing; and thus it was until the coming of Christ.",
         "verse": "22",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89539,7 +89539,7 @@
         "content": "And after that he came men also were saved by faith in his name; and by faith, they become the sons of God.",
         "verse": "23",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89550,7 +89550,7 @@
         "content": "And as sure as Christ liveth he spake these words unto our fathers, saying:",
         "verse": "24",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_end"
     },
     {
@@ -89561,7 +89561,7 @@
         "content": "Whatsoever thing ye shall ask the Father in my name, which is good, in faith believing that ye shall receive, behold, it shall be done unto you.",
         "verse": "24",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon quoting Christ",
         "type": "q_singleton"
     },
     {
@@ -89572,7 +89572,7 @@
         "content": "Wherefore, my beloved brethren, have miracles ceased because Christ hath ascended into heaven, and hath sat down on the right hand of God, to claim of the Father his rights of mercy which he hath upon the children of men?",
         "verse": "25",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_start"
     },
     {
@@ -89583,7 +89583,7 @@
         "content": "For he hath answered the ends of the law, and he claimeth all those who have faith in him; and they who have faith in him will cleave unto every good thing; wherefore he advocateth the cause of the children of men; and he dwelleth eternally in the heavens.",
         "verse": "26",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89594,7 +89594,7 @@
         "content": "And because he hath done this, my beloved brethren, have miracles ceased?",
         "verse": "27",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89605,7 +89605,7 @@
         "content": "Behold I say unto you, Nay; neither have angels ceased to minister unto the children of men.",
         "verse": "28",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89616,7 +89616,7 @@
         "content": "For behold, they are subject unto him, to minister according to the word of his command, showing themselves unto them of strong faith and a firm mind in every form of godliness.",
         "verse": "29",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89627,7 +89627,7 @@
         "content": "And the office of their ministry is to call men unto repentance, and to fulfill and to do the work of the covenants of the Father, which he hath made unto the children of men, to prepare the way among the children of men, by declaring the word of Christ unto the chosen vessels of the Lord, that they may bear testimony of him.",
         "verse": "30",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89638,7 +89638,7 @@
         "content": "And by so doing, the Lord God prepareth the way that the residue of men may have faith in Christ, that the Holy Ghost may have place in their hearts, according to the power thereof; and after this manner bringeth to pass the Father, the covenants which he hath made unto the children of men.",
         "verse": "31",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -89649,7 +89649,7 @@
         "content": "And Christ hath said:",
         "verse": "32",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_end"
     },
     {
@@ -89660,7 +89660,7 @@
         "content": "If ye will have faith in me ye shall have power to do whatsoever thing is expedient in me.",
         "verse": "32",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon quoting Christ",
         "type": "q_singleton"
     },
     {
@@ -89902,7 +89902,7 @@
         "content": "An epistle of my father Mormon, written to me, Moroni; and it was written unto me soon after my calling to the ministry.",
         "verse": "1",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -89913,7 +89913,7 @@
         "content": "And on this wise did he write unto me, saying:",
         "verse": "2",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_end"
     },
     {
@@ -89924,7 +89924,7 @@
         "content": "My beloved son, Moroni, I rejoice exceedingly that your Lord Jesus Christ hath been mindful of you, and hath called you to his ministry, and to his holy work.",
         "verse": "2",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_start"
     },
     {
@@ -89935,7 +89935,7 @@
         "content": "I am mindful of you always in my prayers, continually praying unto God the Father in the name of his Holy Child, Jesus, that he, through his infinite goodness and grace, will keep you through the endurance of faith on his name to the end.",
         "verse": "3",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -89946,7 +89946,7 @@
         "content": "And now, my son, I speak unto you concerning that which grieveth me exceedingly; for it grieveth me that there should disputations rise among you.",
         "verse": "4",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -89957,7 +89957,7 @@
         "content": "For, if I have learned the truth, there have been disputations among you concerning the baptism of your little children.",
         "verse": "5",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -89968,7 +89968,7 @@
         "content": "And now, my son, I desire that ye should labor diligently, that this gross error should be removed from among you; for, for this intent I have written this epistle.",
         "verse": "6",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -89979,7 +89979,7 @@
         "content": "For immediately after I had learned these things of you I inquired of the Lord concerning the matter.",
         "verse": "7",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_end"
     },
     {
@@ -89990,7 +89990,7 @@
         "content": "And the word of the Lord came to me by the power of the Holy Ghost, saying:",
         "verse": "8",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_singleton"
     },
     {
@@ -90001,7 +90001,7 @@
         "content": "Listen to the words of Christ, your Redeemer, your Lord and your God.",
         "verse": "8",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon quoting the Lord",
         "type": "q_start"
     },
     {
@@ -90012,7 +90012,7 @@
         "content": "Behold, I came into the world not to call the righteous but sinners to repentance; the whole need no physician, but they that are sick; wherefore, little children are whole, for they are not capable of committing sin; wherefore the curse of Adam is taken from them in me, that it hath no power over them; and the law of circumcision is done away in me.",
         "verse": "8",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon quoting the Lord",
         "type": "q_middle"
     },
     {
@@ -90023,7 +90023,7 @@
         "content": "And after this manner did the Holy Ghost manifest the word of God unto me; wherefore, my beloved son, I know that it is solemn mockery before God, that ye should baptize little children.",
         "verse": "9",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90034,7 +90034,7 @@
         "content": "Behold I say unto you that this thing shall ye teach--repentance and baptism unto those who are accountable and capable of committing sin; yea, teach parents that they must repent and be baptized, and humble themselves as their little children, and they shall all be saved with their little children.",
         "verse": "10",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90045,7 +90045,7 @@
         "content": "And their little children need no repentance, neither baptism.",
         "verse": "11",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90056,7 +90056,7 @@
         "content": "Behold, baptism is unto repentance to the fulfilling the commandments unto the remission of sins.",
         "verse": "11",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90067,7 +90067,7 @@
         "content": "But little children are alive in Christ, even from the foundation of the world; if not so, God is a partial God, and also a changeable God, and a respecter to persons; for how many little children have died without baptism!",
         "verse": "12",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90078,7 +90078,7 @@
         "content": "Wherefore, if little children could not be saved without baptism, these must have gone to an endless hell.",
         "verse": "13",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90089,7 +90089,7 @@
         "content": "Behold I say unto you, that he that supposeth that little children need baptism is in the gall of bitterness and in the bonds of iniquity, for he hath neither faith, hope, nor charity; wherefore, should he be cut off while in the thought, he must go down to hell.",
         "verse": "14",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90100,7 +90100,7 @@
         "content": "For awful is the wickedness to suppose that God saveth one child because of baptism, and the other must perish because he hath no baptism.",
         "verse": "15",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90111,7 +90111,7 @@
         "content": "Wo be unto them that shall pervert the ways of the Lord after this manner, for they shall perish except they repent.",
         "verse": "16",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90122,7 +90122,7 @@
         "content": "Behold, I speak with boldness, having authority from God; and I fear not what man can do; for perfect love casteth out all fear.",
         "verse": "16",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90133,7 +90133,7 @@
         "content": "And I am filled with charity, which is everlasting love; wherefore, all children are alike unto me; wherefore, I love little children with a perfect love; and they are all alike and partakers of salvation.",
         "verse": "17",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90144,7 +90144,7 @@
         "content": "For I know that God is not a partial God, neither a changeable being; but he is unchangeable from all eternity to all eternity.",
         "verse": "18",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90155,7 +90155,7 @@
         "content": "Little children cannot repent; wherefore, it is awful wickedness to deny the pure mercies of God unto them, for they are all alive in him because of his mercy.",
         "verse": "19",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90166,7 +90166,7 @@
         "content": "And he that saith that little children need baptism denieth the mercies of Christ, and setteth at naught the atonement of him and the power of his redemption.",
         "verse": "20",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90177,7 +90177,7 @@
         "content": "Wo unto such, for they are in danger of death, hell, and an endless torment.",
         "verse": "21",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90188,7 +90188,7 @@
         "content": "I speak it boldly; God hath commanded me.",
         "verse": "21",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90199,7 +90199,7 @@
         "content": "Listen unto them and give heed, or they stand against you at the judgment-seat of Christ.",
         "verse": "21",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90210,7 +90210,7 @@
         "content": "For behold that all little children are alive in Christ, and also all they that are without the law.",
         "verse": "22",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90221,7 +90221,7 @@
         "content": "For the power of redemption cometh on all them that have no law; wherefore, he that is not condemned, or he that is under no condemnation, cannot repent; and unto such baptism availeth nothing-- But it is mockery before God, denying the mercies of Christ, and the power of his Holy Spirit, and putting trust in dead works.",
         "verse": "23",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90232,7 +90232,7 @@
         "content": "Behold, my son, this thing ought not to be; for repentance is unto them that are under condemnation and under the curse of a broken law.",
         "verse": "24",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90243,7 +90243,7 @@
         "content": "And the first fruits of repentance is baptism; and baptism cometh by faith unto the fulfilling the commandments; and the fulfilling the commandments bringeth remission of sins; And the remission of sins bringeth meekness, and lowliness of heart; and because of meekness and lowliness of heart cometh the visitation of the Holy Ghost, which Comforter filleth with hope and perfect love, which love endureth by diligence unto prayer, until the end shall come, when all the saints shall dwell with God.",
         "verse": "25",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90254,7 +90254,7 @@
         "content": "Behold, my son, I will write unto you again if I go not out soon against the Lamanites.",
         "verse": "26",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90265,7 +90265,7 @@
         "content": "Behold, the pride of this nation, or the people of the Nephites, hath proven their destruction except they should repent.",
         "verse": "27",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90276,7 +90276,7 @@
         "content": "Pray for them, my son, that repentance may come unto them.",
         "verse": "28",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90287,7 +90287,7 @@
         "content": "But behold, I fear lest the Spirit hath ceased striving with them; and in this part of the land they are also seeking to put down all power and authority which cometh from God; and they are denying the Holy Ghost.",
         "verse": "28",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90298,7 +90298,7 @@
         "content": "And after rejecting so great a knowledge, my son, they must perish soon, unto the fulfilling of the prophecies which were spoken by the prophets, as well as the words of our Savior himself.",
         "verse": "29",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90309,7 +90309,7 @@
         "content": "Farewell, my son, until I shall write unto you, or shall meet you again.",
         "verse": "30",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90320,7 +90320,7 @@
         "content": "Amen.",
         "verse": "30",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_end"
     },
     {
@@ -90331,7 +90331,7 @@
         "content": "My beloved son, I write unto you again that ye may know that I am yet alive; but I write somewhat of that which is grievous.",
         "verse": "1",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_start"
     },
     {
@@ -90342,7 +90342,7 @@
         "content": "For behold, I have had a sore battle with the Lamanites, in which we did not conquer; and Archeantus has fallen by the sword, and also Luram and Emron; yea, and we have lost a great number of our choice men.",
         "verse": "2",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90353,7 +90353,7 @@
         "content": "And now behold, my son, I fear lest the Lamanites shall destroy this people; for they do not repent, and Satan stirreth them up continually to anger one with another.",
         "verse": "3",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90364,7 +90364,7 @@
         "content": "Behold, I am laboring with them continually; and when I speak the word of God with sharpness they tremble and anger against me; and when I use no sharpness they harden their hearts against it; wherefore, I fear lest the Spirit of the Lord hath ceased striving with them.",
         "verse": "4",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90375,7 +90375,7 @@
         "content": "For so exceedingly do they anger that it seemeth me that they have no fear of death; and they have lost their love, one towards another; and they thirst after blood and revenge continually.",
         "verse": "5",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90386,7 +90386,7 @@
         "content": "And now, my beloved son, notwithstanding their hardness, let us labor diligently; for if we should cease to labor, we should be brought under condemnation; for we have a labor to perform whilst in this tabernacle of clay, that we may conquer the enemy of all righteousness, and rest our souls in the kingdom of God.",
         "verse": "6",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90397,7 +90397,7 @@
         "content": "And now I write somewhat concerning the sufferings of this people.",
         "verse": "7",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90408,7 +90408,7 @@
         "content": "For according to the knowledge which I have received from Amoron, behold, the Lamanites have many prisoners, which they took from the tower of Sherrizah; and there were men, women, and children.",
         "verse": "7",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90419,7 +90419,7 @@
         "content": "And the husbands and fathers of those women and children they have slain; and they feed the women upon the flesh of their husbands, and the children upon the flesh of their fathers; and no water, save a little, do they give unto them.",
         "verse": "8",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90430,7 +90430,7 @@
         "content": "And notwithstanding this great abomination of the Lamanites, it doth not exceed that of our people in Moriantum.",
         "verse": "9",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90441,7 +90441,7 @@
         "content": "For behold, many of the daughters of the Lamanites have they taken prisoners; and after depriving them of that which was most dear and precious above all things, which is chastity and virtue-- And after they had done this thing, they did murder them in a most cruel manner, torturing their bodies even unto death; and after they have done this, they devour their flesh like unto wild beasts, because of the hardness of their hearts; and they do it for a token of bravery.",
         "verse": "10",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90452,7 +90452,7 @@
         "content": "O my beloved son, how can a people like this, that are without civilization-- (And only a few years have passed away, and they were a civil and a delightsome people) But O my son, how can a people like this, whose delight is in so much abomination-- How can we expect that God will stay his hand in judgment against us?",
         "verse": "11",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_middle"
     },
     {
@@ -90463,7 +90463,7 @@
         "content": "Behold, my heart cries:",
         "verse": "12",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "p_end"
     },
     {
@@ -90474,7 +90474,7 @@
         "content": "Wo unto this people.",
         "verse": "12",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_start"
     },
     {
@@ -90485,7 +90485,7 @@
         "content": "Come out in judgment, O God, and hide their sins, and wickedness, and abominations from before thy face!",
         "verse": "13",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90496,7 +90496,7 @@
         "content": "And again, my son, there are many widows and their daughters who remain in Sherrizah; and that part of the provisions which the Lamanites did not carry away, behold, the army of Zenephi has carried away, and left them to wander whithersoever they can for food; and many old women do faint by the way and die.",
         "verse": "14",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90507,7 +90507,7 @@
         "content": "And the army which is with me is weak; and the armies of the Lamanites are betwixt Sherrizah and me; and as many as have fled to the army of Aaron have fallen victims to their awful brutality.",
         "verse": "15",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90518,7 +90518,7 @@
         "content": "O the depravity of my people!",
         "verse": "16",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90529,7 +90529,7 @@
         "content": "They are without order and without mercy.",
         "verse": "17",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90540,7 +90540,7 @@
         "content": "Behold, I am but a man, and I have but the strength of a man, and I cannot any longer enforce my commands.",
         "verse": "18",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90551,7 +90551,7 @@
         "content": "And they have become strong in their perversion; and they are alike brutal, sparing none, neither old nor young; and they delight in everything save that which is good; and the suffering of our women and our children upon all the face of this land doth exceed everything; yea, tongue cannot tell, neither can it be written.",
         "verse": "19",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90562,7 +90562,7 @@
         "content": "And now, my son, I dwell no longer upon this horrible scene.",
         "verse": "20",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90573,7 +90573,7 @@
         "content": "Behold, thou knowest the wickedness of this people; thou knowest that they are without principle, and past feeling; and their wickedness doth exceed that of the Lamanites.",
         "verse": "20",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90584,7 +90584,7 @@
         "content": "Behold, my son, I cannot recommend them unto God lest he should smite me.",
         "verse": "21",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90595,7 +90595,7 @@
         "content": "But behold, my son, I recommend thee unto God, and I trust in Christ that thou wilt be saved; and I pray unto God that he will spare thy life, to witness the return of his people unto him, or their utter destruction; for I know that they must perish except they repent and return unto him.",
         "verse": "22",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90606,7 +90606,7 @@
         "content": "And if they perish it will be like unto the Jaredites, because of the wilfulness of their hearts, seeking for blood and revenge.",
         "verse": "23",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90617,7 +90617,7 @@
         "content": "And if it so be that they perish, we know that many of our brethren have deserted over unto the Lamanites, and many more will also desert over unto them; wherefore, write somewhat a few things, if thou art spared and I shall perish and not see thee; but I trust that I may see thee soon; for I have sacred records that I would deliver up unto thee.",
         "verse": "24",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90628,7 +90628,7 @@
         "content": "My son, be faithful in Christ; and may not the things which I have written grieve thee, to weigh thee down unto death; but may Christ lift thee up, and may his sufferings and death, and the showing his body unto our fathers, and his mercy and long-suffering, and the hope of his glory and of eternal life, rest in your mind forever.",
         "verse": "25",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90639,7 +90639,7 @@
         "content": "And may the grace of God the Father, whose throne is high in the heavens, and our Lord Jesus Christ, who sitteth on the right hand of his power, until all things shall become subject unto him, be, and abide with you forever.",
         "verse": "26",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_middle"
     },
     {
@@ -90650,7 +90650,7 @@
         "content": "Amen.",
         "verse": "26",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Mormon",
         "type": "q_end"
     },
     {
@@ -90661,7 +90661,7 @@
         "content": "Now I, Moroni, write somewhat as seemeth me good; and I write unto my brethren, the Lamanites; and I would that they should know that more than four hundred and twenty years have passed away since the sign was given of the coming of Christ.",
         "verse": "1",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_start"
     },
     {
@@ -90672,7 +90672,7 @@
         "content": "And I seal up these records, after I have spoken a few words by way of exhortation unto you.",
         "verse": "2",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90683,7 +90683,7 @@
         "content": "Behold, I would exhort you that when ye shall read these things, if it be wisdom in God that ye should read them, that ye would remember how merciful the Lord hath been unto the children of men, from the creation of Adam even down unto the time that ye shall receive these things, and ponder it in your hearts.",
         "verse": "3",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90694,7 +90694,7 @@
         "content": "And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.",
         "verse": "4",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90705,7 +90705,7 @@
         "content": "And by the power of the Holy Ghost ye may know the truth of all things.",
         "verse": "5",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90716,7 +90716,7 @@
         "content": "And whatsoever thing is good is just and true; wherefore, nothing that is good denieth the Christ, but acknowledgeth that he is.",
         "verse": "6",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90727,7 +90727,7 @@
         "content": "And ye may know that he is, by the power of the Holy Ghost; wherefore I would exhort you that ye deny not the power of God; for he worketh by power, according to the faith of the children of men, the same today and tomorrow, and forever.",
         "verse": "7",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90738,7 +90738,7 @@
         "content": "And again, I exhort you, my brethren, that ye deny not the gifts of God, for they are many; and they come from the same God.",
         "verse": "8",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90749,7 +90749,7 @@
         "content": "And there are different ways that these gifts are administered; but it is the same God who worketh all in all; and they are given by the manifestations of the Spirit of God unto men, to profit them.",
         "verse": "8",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90760,7 +90760,7 @@
         "content": "For behold, to one is given by the Spirit of God, that he may teach the word of wisdom; And to another, that he may teach the word of knowledge by the same Spirit; And to another, exceedingly great faith; and to another, the gifts of healing by the same Spirit; And again, to another, that he may work mighty miracles; And again, to another, that he may prophesy concerning all things; And again, to another, the beholding of angels and ministering spirits; And again, to another, all kinds of tongues; And again, to another, the interpretation of languages and of divers kinds of tongues.",
         "verse": "9",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90771,7 +90771,7 @@
         "content": "And all these gifts come by the Spirit of Christ; and they come unto every man severally, according as he will.",
         "verse": "10",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90782,7 +90782,7 @@
         "content": "And I would exhort you, my beloved brethren, that ye remember that every good gift cometh of Christ.",
         "verse": "11",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90793,7 +90793,7 @@
         "content": "And I would exhort you, my beloved brethren, that ye remember that he is the same yesterday, today, and forever, and that all these gifts of which I have spoken, which are spiritual, never will be done away, even as long as the world shall stand, only according to the unbelief of the children of men.",
         "verse": "12",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90804,7 +90804,7 @@
         "content": "Wherefore, there must be faith; and if there must be faith there must also be hope; and if there must be hope there must also be charity.",
         "verse": "13",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90815,7 +90815,7 @@
         "content": "And except ye have charity ye can in nowise be saved in the kingdom of God; neither can ye be saved in the kingdom of God if ye have not faith; neither can ye if ye have no hope.",
         "verse": "14",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90826,7 +90826,7 @@
         "content": "And if ye have no hope ye must needs be in despair; and despair cometh because of iniquity.",
         "verse": "15",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90837,7 +90837,7 @@
         "content": "And Christ truly said unto our fathers:",
         "verse": "16",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_end"
     },
     {
@@ -90848,7 +90848,7 @@
         "content": "If ye have faith ye can do all things which are expedient unto me.",
         "verse": "16",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2 quoting Christ",
         "type": "q_start"
     },
     {
@@ -90859,7 +90859,7 @@
         "content": "And now I speak unto all the ends of the earth--that if the day cometh that the power and gifts of God shall be done away among you, it shall be because of unbelief.",
         "verse": "17",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "q_middle"
     },
     {
@@ -90870,7 +90870,7 @@
         "content": "And wo be unto the children of men if this be the case; for there shall be none that doeth good among you, no not one.",
         "verse": "18",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "q_middle"
     },
     {
@@ -90881,7 +90881,7 @@
         "content": "For if there be one among you that doeth good, he shall work by the power and gifts of God.",
         "verse": "19",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "q_middle"
     },
     {
@@ -90892,7 +90892,7 @@
         "content": "And wo unto them who shall do these things away and die, for they die in their sins, and they cannot be saved in the kingdom of God; and I speak it according to the words of Christ; and I lie not.",
         "verse": "20",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "q_end"
     },
     {
@@ -90903,7 +90903,7 @@
         "content": "And I exhort you to remember these things; for the time speedily cometh that ye shall know that I lie not, for ye shall see me at the bar of God; and the Lord God will say unto you:",
         "verse": "21",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_singleton"
     },
     {
@@ -90914,7 +90914,7 @@
         "content": "Did I not declare my words unto you, which were written by this man, like as one crying from the dead, yea, even as one speaking out of the dust?",
         "verse": "21",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "q_singleton"
     },
     {
@@ -90925,7 +90925,7 @@
         "content": "I declare these things unto the fulfilling of the prophecies.",
         "verse": "22",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_start"
     },
     {
@@ -90936,7 +90936,7 @@
         "content": "And behold, they shall proceed forth out of the mouth of the everlasting God; and his word shall hiss forth from generation to generation.",
         "verse": "23",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90947,7 +90947,7 @@
         "content": "And God shall show unto you, that that which I have written is true.",
         "verse": "24",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90958,7 +90958,7 @@
         "content": "And again I would exhort you that ye would come unto Christ, and lay hold upon every good gift, and touch not the evil gift, nor the unclean thing.",
         "verse": "25",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90969,7 +90969,7 @@
         "content": "And awake, and arise from the dust, O Jerusalem; yea, and put on thy beautiful garments, O daughter of Zion; and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.",
         "verse": "26",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90980,7 +90980,7 @@
         "content": "Yea, come unto Christ, and be perfected in him, and deny yourselves of all ungodliness; and if ye shall deny yourselves of all ungodliness and love God with all your might, mind and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ; and if by the grace of God ye are perfect in Christ, ye can in nowise deny the power of God.",
         "verse": "27",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -90991,7 +90991,7 @@
         "content": "And again, if ye by the grace of God are perfect in Christ, and deny not his power, then are ye sanctified in Christ by the grace of God, through the shedding of the blood of Christ, which is in the covenant of the Father unto the remission of your sins, that ye become holy, without spot.",
         "verse": "28",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -91002,7 +91002,7 @@
         "content": "And now I bid unto all, farewell.",
         "verse": "29",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -91013,7 +91013,7 @@
         "content": "I soon go to rest in the paradise of God, until my spirit and body shall again reunite, and I am brought forth triumphant through the air, to meet you before the pleasing bar of the great Jehovah, the Eternal Judge of both quick and dead.",
         "verse": "30",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_middle"
     },
     {
@@ -91024,7 +91024,7 @@
         "content": "Amen.",
         "verse": "31",
         "book": "Moroni",
-        "speaker": "",
+        "speaker": "Moroni2",
         "type": "p_end"
     }
 ]
